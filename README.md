@@ -1,0 +1,2 @@
+# magma
+GitHub Pages
